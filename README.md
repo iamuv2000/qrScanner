@@ -2,7 +2,7 @@
 
 ![qrScanner](https://raw.githubusercontent.com/TheCoolNerd27/qrScanner/master/assets/QR.png)
 
-This software helps you to scan QR code just by pointing your camera on it. It uses machine learning algorithms to scan the code. 
+This software helps you to scan QR code just by pointing your camera on it. It uses an npm module to scan the code. 
 
 ### How to setup
 ```
